@@ -1,2 +1,0 @@
-### Running ppo model for BipedalWalker and saving file inside the enjoy.py code -1 
-!/Users/userok/opt/anaconda3/envs/tensorflow/bin/python /Users/userok/Desktop/Imperial_final_report/Code_base/Bipedal_walker_PPO/Bipedal_walker_PPO/enjoy.py --algo ppo --env BipedalWalker-v3 --folder /Users/userok/Desktop/Imperial_final_report/Code_base/trained_models_SB3/rl-baselines3-zoo/rl-trained-agents/ -n 1600
